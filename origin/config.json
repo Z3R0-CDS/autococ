@@ -1,0 +1,12 @@
+{
+  "screen": [
+    1920,
+    1080
+  ],
+  "check_area": {
+    "left_x":580,
+    "right_x": 1500,
+    "top_y": 280,
+    "bottom_y": 870
+  }
+}

@@ -1,0 +1,4 @@
+[INFO@main]: Cleaning folder logs
+[INFO@main]: Cleaning done! Removed 1 files
+[INFO@main]: Activated logger for main
+[INFO@main]: Api reachable... Starting
